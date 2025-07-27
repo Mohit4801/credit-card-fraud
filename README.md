@@ -37,7 +37,7 @@ CredGuard_Project/
 ├── README.md # Project documentation
 └── Screenshot.png # Optional: UI preview
 
-
+#i have not given data file since it is too large so u can manually download it and run 
 ---
 
 ## 🧪 How to Run
