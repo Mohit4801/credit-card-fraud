@@ -1,0 +1,20 @@
+Module	                   Role in the System
+
+Streamlit	          UI building, input collection, output display
+Pandas	                   Organizing input into structured DataFrame
+NumPy	                   Initializing array structure for model input
+Joblib	                   Loading the pre-trained XGBoost model
+XGBoost	                   Making the actual prediction
+
+scaler
+A scaler is a data preprocessing tool used to normalize or standardize features so that they are on the same scale (range or distribution). 
+
+
+
+Pandas:
+handling and preparing data for prediction.
+it provides powerful tools to handle and manipulate data easily—which is essential in any machine learning or data science project.
+
+NumPy:
+it is mainly used for numerical operations—especially for creating the input structure that feeds into the machine learning model.
+quickly initialize the feature array that holds the input for the ML model
